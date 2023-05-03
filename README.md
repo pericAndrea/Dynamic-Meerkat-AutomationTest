@@ -28,7 +28,7 @@ or
 
 This will open the Cypress Test Runner, where you can select the tests to run and view the results.
 
-Alternatively, you can run the tests in headless mode by running the following command:
+Alternatively, you can run the tests without opening the Test Runner by running the following command:
 
 
 ` npm run cypress:run `
@@ -37,8 +37,6 @@ or
 
 ` yarn cypress:run `
 
-
-This will run the tests in the command line without opening the Test Runner.
 
 # Test Files
 
