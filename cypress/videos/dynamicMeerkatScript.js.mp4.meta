@@ -1,0 +1,31 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=2023
+END=4197
+title=Visit Dynamic Meerkat page should check buttons background gradient colour
+[CHAPTER]
+TIMEBASE=1/1000
+START=759
+END=6374
+title=Visit Dynamic Meerkat page Should check camera button functionality and check image library
+[CHAPTER]
+TIMEBASE=1/1000
+START=8828
+END=12033
+title=Visit Dynamic Meerkat page Should check notes functionality
+[CHAPTER]
+TIMEBASE=1/1000
+START=13678
+END=15241
+title=Visit Dynamic Meerkat page Should check RSS functionality
+[CHAPTER]
+TIMEBASE=1/1000
+START=13865
+END=16805
+title=Visit Dynamic Meerkat page Should check Folder functionality
+[CHAPTER]
+TIMEBASE=1/1000
+START=17743
+END=19747
+title=Visit Dynamic Meerkat page Should check Browser functionality
