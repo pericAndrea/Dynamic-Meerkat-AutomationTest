@@ -1,0 +1,36 @@
+{
+    "url": "https://dynamic-meerkat-abbd3b.netlify.app/", 
+    "email": "borgoth@mordos.com",
+    "password": "12bindthem",
+    "isItFridayUrl": "isitfriday.org/",
+    "gradients": {
+        "cameraButton": "linear-gradient(to right, rgb(248, 113, 113) 0%, rgb(239, 68, 68) 19%, rgb(220, 38, 38) 60%, rgb(153, 27, 27) 100%)",
+        "notesButton": "linear-gradient(to top, rgb(48, 207, 208) 0%, rgb(51, 8, 103) 100%)",
+        "imagesLibraryButton": "linear-gradient(43deg, rgb(65, 88, 208) 0%, rgb(200, 80, 192) 46%, rgb(255, 204, 112) 100%)",
+        "rssButton": "linear-gradient(62deg, rgb(238, 128, 47) 0%, rgb(247, 206, 104) 100%)",
+        "folderButton": "linear-gradient(43deg, rgb(63, 83, 217) 0%, rgb(0, 0, 0) 46%, rgb(19, 47, 78) 100%)",
+        "browserButton": "linear-gradient(23deg, rgb(146, 213, 52) 0%, rgb(8, 145, 178) 26%, rgb(15, 118, 110) 45%, rgb(17, 94, 89) 74%)"
+       },
+    "input": {
+        "standardGreeting": "Hello world!",
+        "wellnessCheck": "How are you today?",
+        "positiveWeather": "The weather is really nice today :)",
+        "missingPhotosPrompt": "Borgoth, you big chunk. You currently have no photos. Try to take some ",
+        "missingFilesPrompt": "Borgoth, you big chunk. You currently have no files. Try to make some ",
+        "repeatedGreeting": "Hello world again :) !"
+       },
+    "expectedText": {
+        "camera": "Camera",
+        "gallery": "Gallery",
+        "notes": "Notes",
+        "deleteConfirmation": "Delete Confirmation",
+        "rss": "RSS",
+        "elementValue": "dolorem dolore est ipsam",
+        "folder": "Folder",
+        "applications": "Applications",
+        "photos": "Photos",
+        "files": "Files",
+        "browser": "Browser"
+
+    }
+}
