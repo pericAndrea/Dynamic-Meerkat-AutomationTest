@@ -1,0 +1,23 @@
+{
+  "name": "dynamic-meerkat-automationtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pericAndrea/Dynamic-Meerkat-AutomationTest.git"
+  },
+  "author": "andrea peric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pericAndrea/Dynamic-Meerkat-AutomationTest/issues"
+  },
+  "homepage": "https://github.com/pericAndrea/Dynamic-Meerkat-AutomationTest#readme",
+  "dependencies": {
+    "cypress": "^12.10.0"
+  }
+}
