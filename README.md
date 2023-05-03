@@ -19,11 +19,11 @@ or
 
 To run the Cypress automation script, navigate to the project directory and run the following command:
 
-` npm run cypress `
+` npm run cypress:open `
 
 or
 
-` yarn cypress `
+` yarn cypress:open `
 
 
 This will open the Cypress Test Runner, where you can select the tests to run and view the results.
@@ -31,11 +31,11 @@ This will open the Cypress Test Runner, where you can select the tests to run an
 Alternatively, you can run the tests in headless mode by running the following command:
 
 
-` npm run cypress `
+` npm run cypress:run `
 
 or
 
-` yarn cypress `
+` yarn cypress:run `
 
 
 This will run the tests in the command line without opening the Test Runner.
