@@ -4,7 +4,7 @@ This repository contains the Cypress automation script for the Dynamic Meerkat w
 # Installation
 Before running the script, you need to have Node.js and npm (or yarn) installed on your machine.
 
-To install Node.js, please visit https://nodejs.org/.
+To install Node.js, visit https://nodejs.org/.
 
 Once you have Node.js installed, navigate to the project directory and run the following command to install the required dependencies:
 
@@ -26,7 +26,7 @@ or
 ` yarn cypress:open `
 
 
-This will open the Cypress Test Runner, where you can select the tests to run and view the results.
+This will open the Cypress Test Runner, where you can select the test to run and view the results.
 
 Alternatively, you can run the tests without opening the Test Runner by running the following command:
 
